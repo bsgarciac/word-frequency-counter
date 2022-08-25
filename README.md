@@ -6,7 +6,7 @@
 - D3 to generate graphs
 
 ## Computational Complexity
-- The algorithm to count the frecuency of each word in the text is linear O(n), being n the number of words in the text, because it splits the string by spaces and the iterates one time over each word.
+- The algorithm to count the frecuency of each word in the text is linear O(n), being n the number of words in the text, because it splits the string by spaces and then iterates one time over each word.
 
 ## Project setup
 ```
